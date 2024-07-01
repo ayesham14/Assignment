@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\bin\Debug\stringreverseaword.exe.config
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\bin\Debug\stringreverseaword.exe
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\bin\Debug\stringreverseaword.pdb
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\obj\Debug\stringreverseaword.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\obj\Debug\stringreverseaword.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\obj\Debug\stringreverseaword.exe
+D:\C#\assignment\Assignment-2\stringreverseaword\stringreverseaword\obj\Debug\stringreverseaword.pdb

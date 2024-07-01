@@ -1,0 +1,7 @@
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\bin\Debug\Calculatorprogram.exe.config
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\bin\Debug\Calculatorprogram.exe
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\bin\Debug\Calculatorprogram.pdb
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\obj\Debug\Calculatorprogram.csproj.AssemblyReference.cache
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\obj\Debug\Calculatorprogram.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\obj\Debug\Calculatorprogram.exe
+D:\GitHub\C#\Calculatorprogram\Calculatorprogram\obj\Debug\Calculatorprogram.pdb

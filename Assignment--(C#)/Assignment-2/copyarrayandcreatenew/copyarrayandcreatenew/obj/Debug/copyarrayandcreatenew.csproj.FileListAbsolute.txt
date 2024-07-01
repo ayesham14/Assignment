@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\bin\Debug\copyarrayandcreatenew.exe.config
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\bin\Debug\copyarrayandcreatenew.exe
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\bin\Debug\copyarrayandcreatenew.pdb
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\obj\Debug\copyarrayandcreatenew.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\obj\Debug\copyarrayandcreatenew.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\obj\Debug\copyarrayandcreatenew.exe
+D:\C#\assignment\Assignment-2\copyarrayandcreatenew\copyarrayandcreatenew\obj\Debug\copyarrayandcreatenew.pdb

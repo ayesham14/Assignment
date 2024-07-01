@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-2\wordsame\wordsame\bin\Debug\wordsame.exe.config
+D:\C#\assignment\Assignment-2\wordsame\wordsame\bin\Debug\wordsame.exe
+D:\C#\assignment\Assignment-2\wordsame\wordsame\bin\Debug\wordsame.pdb
+D:\C#\assignment\Assignment-2\wordsame\wordsame\obj\Debug\wordsame.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-2\wordsame\wordsame\obj\Debug\wordsame.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-2\wordsame\wordsame\obj\Debug\wordsame.exe
+D:\C#\assignment\Assignment-2\wordsame\wordsame\obj\Debug\wordsame.pdb

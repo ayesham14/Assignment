@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\bin\Debug\minmaxavge.exe.config
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\bin\Debug\minmaxavge.exe
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\bin\Debug\minmaxavge.pdb
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\obj\Debug\minmaxavge.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\obj\Debug\minmaxavge.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\obj\Debug\minmaxavge.exe
+D:\C#\assignment\Assignment-2\minmaxavge\minmaxavge\obj\Debug\minmaxavge.pdb

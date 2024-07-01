@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIt\\assignment\\Avgminmaxarray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41B3BE1-D20D-4ED5-B2BC-F9966427BEA7}|Avgminmaxarray\\Avgminmaxarray.csproj|d:\\git\\assignment\\avgminmaxarray\\avgminmaxarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41B3BE1-D20D-4ED5-B2BC-F9966427BEA7}|Avgminmaxarray\\Avgminmaxarray.csproj|solutionrelative:avgminmaxarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIt\\assignment\\Avgminmaxarray\\Avgminmaxarray\\Program.cs",
+              "RelativeDocumentMoniker": "Avgminmaxarray\\Program.cs",
+              "ToolTip": "D:\\GIt\\assignment\\Avgminmaxarray\\Avgminmaxarray\\Program.cs",
+              "RelativeToolTip": "Avgminmaxarray\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:32:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

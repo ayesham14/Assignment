@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-4\bank\bank\bin\Debug\bank.exe.config
+D:\C#\assignment\Assignment-4\bank\bank\bin\Debug\bank.exe
+D:\C#\assignment\Assignment-4\bank\bank\bin\Debug\bank.pdb
+D:\C#\assignment\Assignment-4\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-4\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-4\bank\bank\obj\Debug\bank.exe
+D:\C#\assignment\Assignment-4\bank\bank\obj\Debug\bank.pdb

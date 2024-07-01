@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\bin\Debug\ass-3,2.exe.config
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\bin\Debug\ass-3,2.exe
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\bin\Debug\ass-3,2.pdb
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\obj\Debug\ass-3,2.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\obj\Debug\ass-3,2.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\obj\Debug\ass-3,2.exe
+D:\C#\assignment\Assignment-3\ass-3,2\ass-3,2\obj\Debug\ass-3,2.pdb

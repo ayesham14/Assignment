@@ -1,0 +1,15 @@
+D:\C#\assignment\Assignment -5\interfacee\interfacee\bin\Debug\net8.0\interfacee.exe
+D:\C#\assignment\Assignment -5\interfacee\interfacee\bin\Debug\net8.0\interfacee.deps.json
+D:\C#\assignment\Assignment -5\interfacee\interfacee\bin\Debug\net8.0\interfacee.runtimeconfig.json
+D:\C#\assignment\Assignment -5\interfacee\interfacee\bin\Debug\net8.0\interfacee.dll
+D:\C#\assignment\Assignment -5\interfacee\interfacee\bin\Debug\net8.0\interfacee.pdb
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.AssemblyInfoInputs.cache
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.AssemblyInfo.cs
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.sourcelink.json
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.dll
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\refint\interfacee.dll
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.pdb
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\interfacee.genruntimeconfig.cache
+D:\C#\assignment\Assignment -5\interfacee\interfacee\obj\Debug\net8.0\ref\interfacee.dll

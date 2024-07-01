@@ -1,0 +1,7 @@
+D:\GitHub\C#\EqualNumber\EqualNumber\bin\Debug\EqualNumber.exe.config
+D:\GitHub\C#\EqualNumber\EqualNumber\bin\Debug\EqualNumber.exe
+D:\GitHub\C#\EqualNumber\EqualNumber\bin\Debug\EqualNumber.pdb
+D:\GitHub\C#\EqualNumber\EqualNumber\obj\Debug\EqualNumber.csproj.AssemblyReference.cache
+D:\GitHub\C#\EqualNumber\EqualNumber\obj\Debug\EqualNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\EqualNumber\EqualNumber\obj\Debug\EqualNumber.exe
+D:\GitHub\C#\EqualNumber\EqualNumber\obj\Debug\EqualNumber.pdb

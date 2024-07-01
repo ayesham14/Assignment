@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-4\doctor\doctor\bin\Debug\doctor.exe.config
+D:\C#\assignment\Assignment-4\doctor\doctor\bin\Debug\doctor.exe
+D:\C#\assignment\Assignment-4\doctor\doctor\bin\Debug\doctor.pdb
+D:\C#\assignment\Assignment-4\doctor\doctor\obj\Debug\doctor.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-4\doctor\doctor\obj\Debug\doctor.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-4\doctor\doctor\obj\Debug\doctor.exe
+D:\C#\assignment\Assignment-4\doctor\doctor\obj\Debug\doctor.pdb

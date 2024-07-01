@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\bin\Debug\stringtoconvertwordtolength.exe.config
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\bin\Debug\stringtoconvertwordtolength.exe
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\bin\Debug\stringtoconvertwordtolength.pdb
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\obj\Debug\stringtoconvertwordtolength.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\obj\Debug\stringtoconvertwordtolength.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\obj\Debug\stringtoconvertwordtolength.exe
+D:\C#\assignment\Assignment-2\stringtoconvertwordtolength\stringtoconvertwordtolength\obj\Debug\stringtoconvertwordtolength.pdb

@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment -5\box\box\bin\Debug\box.exe.config
+D:\C#\assignment\Assignment -5\box\box\bin\Debug\box.exe
+D:\C#\assignment\Assignment -5\box\box\bin\Debug\box.pdb
+D:\C#\assignment\Assignment -5\box\box\obj\Debug\box.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment -5\box\box\obj\Debug\box.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment -5\box\box\obj\Debug\box.exe
+D:\C#\assignment\Assignment -5\box\box\obj\Debug\box.pdb

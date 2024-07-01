@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-4\scholarships\scholarships\bin\Debug\scholarships.exe.config
+D:\C#\assignment\Assignment-4\scholarships\scholarships\bin\Debug\scholarships.exe
+D:\C#\assignment\Assignment-4\scholarships\scholarships\bin\Debug\scholarships.pdb
+D:\C#\assignment\Assignment-4\scholarships\scholarships\obj\Debug\scholarships.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-4\scholarships\scholarships\obj\Debug\scholarships.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-4\scholarships\scholarships\obj\Debug\scholarships.exe
+D:\C#\assignment\Assignment-4\scholarships\scholarships\obj\Debug\scholarships.pdb

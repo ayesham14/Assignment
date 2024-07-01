@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\bin\Debug\nametouppercase.exe.config
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\bin\Debug\nametouppercase.exe
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\bin\Debug\nametouppercase.pdb
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\obj\Debug\nametouppercase.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\obj\Debug\nametouppercase.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\obj\Debug\nametouppercase.exe
+D:\C#\assignment\Assignment-4\nametouppercase\nametouppercase\obj\Debug\nametouppercase.pdb

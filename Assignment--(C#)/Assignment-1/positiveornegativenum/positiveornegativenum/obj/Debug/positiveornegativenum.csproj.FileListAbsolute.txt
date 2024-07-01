@@ -1,0 +1,7 @@
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\bin\Debug\positiveornegativenum.exe.config
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\bin\Debug\positiveornegativenum.exe
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\bin\Debug\positiveornegativenum.pdb
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\obj\Debug\positiveornegativenum.csproj.AssemblyReference.cache
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\obj\Debug\positiveornegativenum.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\obj\Debug\positiveornegativenum.exe
+D:\GitHub\C#\positiveornegativenum\positiveornegativenum\obj\Debug\positiveornegativenum.pdb

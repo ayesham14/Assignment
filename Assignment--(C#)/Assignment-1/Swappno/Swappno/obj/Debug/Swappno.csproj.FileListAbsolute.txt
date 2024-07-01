@@ -1,0 +1,7 @@
+D:\GIt\program\Swappno\Swappno\bin\Debug\Swappno.exe.config
+D:\GIt\program\Swappno\Swappno\bin\Debug\Swappno.exe
+D:\GIt\program\Swappno\Swappno\bin\Debug\Swappno.pdb
+D:\GIt\program\Swappno\Swappno\obj\Debug\Swappno.csproj.AssemblyReference.cache
+D:\GIt\program\Swappno\Swappno\obj\Debug\Swappno.csproj.CoreCompileInputs.cache
+D:\GIt\program\Swappno\Swappno\obj\Debug\Swappno.exe
+D:\GIt\program\Swappno\Swappno\obj\Debug\Swappno.pdb

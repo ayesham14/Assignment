@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment -5\book\book\bin\Debug\book.exe.config
+D:\C#\assignment\Assignment -5\book\book\bin\Debug\book.exe
+D:\C#\assignment\Assignment -5\book\book\bin\Debug\book.pdb
+D:\C#\assignment\Assignment -5\book\book\obj\Debug\book.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment -5\book\book\obj\Debug\book.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment -5\book\book\obj\Debug\book.exe
+D:\C#\assignment\Assignment -5\book\book\obj\Debug\book.pdb

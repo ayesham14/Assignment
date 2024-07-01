@@ -1,0 +1,7 @@
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\bin\Debug\countnoofoccurrences.exe.config
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\bin\Debug\countnoofoccurrences.exe
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\bin\Debug\countnoofoccurrences.pdb
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\obj\Debug\countnoofoccurrences.csproj.AssemblyReference.cache
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\obj\Debug\countnoofoccurrences.csproj.CoreCompileInputs.cache
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\obj\Debug\countnoofoccurrences.exe
+D:\C#\assignment\Assignment-4\countnoofoccurrences\countnoofoccurrences\obj\Debug\countnoofoccurrences.pdb
