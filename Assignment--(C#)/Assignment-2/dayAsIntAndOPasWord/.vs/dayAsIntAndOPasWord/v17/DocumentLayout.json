@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIt\\assignment\\dayAsIntAndOPasWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32514225-C183-4229-A181-40A926E36DF9}|dayAsIntAndOPasWord\\dayAsIntAndOPasWord.csproj|d:\\git\\assignment\\dayasintandopasword\\dayasintandopasword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32514225-C183-4229-A181-40A926E36DF9}|dayAsIntAndOPasWord\\dayAsIntAndOPasWord.csproj|solutionrelative:dayasintandopasword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIt\\assignment\\dayAsIntAndOPasWord\\dayAsIntAndOPasWord\\Program.cs",
+              "RelativeDocumentMoniker": "dayAsIntAndOPasWord\\Program.cs",
+              "ToolTip": "D:\\GIt\\assignment\\dayAsIntAndOPasWord\\dayAsIntAndOPasWord\\Program.cs",
+              "RelativeToolTip": "dayAsIntAndOPasWord\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:21:27.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

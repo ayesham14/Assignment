@@ -1,0 +1,2 @@
+D:\C#\assignment\accept10marksandconvert\accept10marksandconvert\obj\Debug\accept10marksandconvert.csproj.AssemblyReference.cache
+D:\C#\assignment\accept10marksandconvert\accept10marksandconvert\obj\Debug\accept10marksandconvert.csproj.CoreCompileInputs.cache

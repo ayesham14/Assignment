@@ -1,0 +1,7 @@
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\bin\Debug\dayAsIntAndOPasWord.exe.config
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\bin\Debug\dayAsIntAndOPasWord.exe
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\bin\Debug\dayAsIntAndOPasWord.pdb
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\obj\Debug\dayAsIntAndOPasWord.csproj.AssemblyReference.cache
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\obj\Debug\dayAsIntAndOPasWord.csproj.CoreCompileInputs.cache
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\obj\Debug\dayAsIntAndOPasWord.exe
+D:\GIt\assignment\dayAsIntAndOPasWord\dayAsIntAndOPasWord\obj\Debug\dayAsIntAndOPasWord.pdb
