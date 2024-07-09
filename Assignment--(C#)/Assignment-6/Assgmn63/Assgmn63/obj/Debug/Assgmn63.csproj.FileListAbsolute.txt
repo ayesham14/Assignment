@@ -1,0 +1,7 @@
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\bin\Debug\Assgmn63.exe.config
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\bin\Debug\Assgmn63.exe
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\bin\Debug\Assgmn63.pdb
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\obj\Debug\Assgmn63.csproj.AssemblyReference.cache
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\obj\Debug\Assgmn63.csproj.CoreCompileInputs.cache
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\obj\Debug\Assgmn63.exe
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgmn63\Assgmn63\obj\Debug\Assgmn63.pdb
