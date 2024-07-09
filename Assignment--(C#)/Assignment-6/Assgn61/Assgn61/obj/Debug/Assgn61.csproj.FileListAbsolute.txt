@@ -1,0 +1,7 @@
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\bin\Debug\Assgn61.exe.config
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\bin\Debug\Assgn61.exe
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\bin\Debug\Assgn61.pdb
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\obj\Debug\Assgn61.csproj.AssemblyReference.cache
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\obj\Debug\Assgn61.csproj.CoreCompileInputs.cache
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\obj\Debug\Assgn61.exe
+D:\GitHub\Assignment\Assignment--(C#)\Assignment-6\Assgn61\Assgn61\obj\Debug\Assgn61.pdb
